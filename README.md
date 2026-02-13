@@ -1,6 +1,13 @@
 # 💫 About Me:
 # Hi there, I'm Vinit Burkul 👋<br><br>### 🚀 2nd Year B.Tech CSE (AI & ML) Student @ VIT Bhopal<br>I am a passionate developer focused on bridging the gap between **Low-Code (OutSystems)** and **Artificial Intelligence**. <br><br>- 🔭 I’m currently working on a **Smart Parking System** using Leaflet Maps and Grasshopper API.<br>- 🌱 I’m currently learning **Applied Machine Learning** and **Data Engineering**.<br>- 💬 Ask me about: **Java, Python, OutSystems, and Web Dev.**<br>- 📫 How to reach me: Using LinkedIn, Instagram and Email <br>
 
+## 💡 Why I Chose Development
+For me, developing isn't just about writing lines of code; it’s about **problem-solving with impact**. 
+
+* **The Logic of Systems:** I’ve always been fascinated by how structured logic can solve complex real-world problems. Whether I'm optimizing a **Java DSA** solution or designing a database schema, I enjoy the process of breaking down a large challenge into manageable, efficient components.
+* **Accessibility through Innovation:** My interest in **OutSystems** and **Low-Code** stems from a desire to build tools faster and make technology more accessible. I believe that AI and ML shouldn't just be academic concepts—they should be integrated into apps like my **Smart Parking System** to make life easier and more organized.
+* **Continuous Evolution:** The tech field evolves every day, much like the night sky I observe through my lens. That constant change keeps me curious and drives me to keep learning, from **Web Dev** to **Data Engineering**. I thrive in environments where there is always a new "bug" to fix or a new framework to master.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/white01knight) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-b-191899374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinitburkul818310@gmail.com)  
