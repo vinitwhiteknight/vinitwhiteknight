@@ -26,7 +26,7 @@ For me, developing isn't just about writing lines of code; it’s about **proble
 
 ## 👨‍🍳 Beyond Coding
 When I'm not in front of a screen, you can find me:
-- 🌙 Practicing **Astrophotography**, specifically capturing the lunar surface.
+- 🌙 Practicing specifically capturing the lunar surface.
 - 🚅 Navigating the complexities of real-world systems.
 
 # 📊 GitHub Stats:
